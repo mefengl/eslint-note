@@ -15,3 +15,7 @@ https://github.com/DukeLuo/eslint-plugin-check-file
   }
 }
 ```
+
+## other files
+
+markdown & json
